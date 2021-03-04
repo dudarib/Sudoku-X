@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="sudokuX_LP1AED1" targetName="sudokuX_LP1AED1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61179ba0-b570-49bf-b5de-0736e655aae6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1UnQbqN8nJyG7Ve9afAd0kYjTCy" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetoLPAED1" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="sudokuX_LP1AED1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sudokuX_LP1AED1" TARGET_NAME="sudokuX_LP1AED1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sudokuX_LP1AED1" RUN_TARGET_NAME="sudokuX_LP1AED1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61179ba0-b570-49bf-b5de-0736e655aae6" name="Default Changelist" comment="" />
+      <created>1575989953746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575989953746</updated>
+      <workItem from="1575989955335" duration="3516000" />
+      <workItem from="1576584470577" duration="23571000" />
+      <workItem from="1577378896322" duration="11803000" />
+      <workItem from="1577467841763" duration="12144000" />
+      <workItem from="1577983243015" duration="32330000" />
+      <workItem from="1578418160686" duration="7546000" />
+      <workItem from="1578667672645" duration="51395000" />
+      <workItem from="1579272282775" duration="16173000" />
+      <workItem from="1579469917378" duration="180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="ps-&gt;ptable-&gt;psquare" />
+        <watch expression="cel_aux" />
+        <watch expression="cel_aux" />
+        <watch expression="cel_aux" />
+        <watch expression="cel_aux" />
+        <watch expression="cel_aux" />
+        <watch expression="ps-&gt;ptable-&gt;psquare-&gt;S-&gt;E" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

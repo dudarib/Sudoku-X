@@ -1,0 +1,3 @@
+C:/Users/dudar/Documents/faculdade/sudokuX_LP1AED1/cmake-build-debug/CMakeFiles/sudokuX_LP1AED1.dir
+C:/Users/dudar/Documents/faculdade/sudokuX_LP1AED1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dudar/Documents/faculdade/sudokuX_LP1AED1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

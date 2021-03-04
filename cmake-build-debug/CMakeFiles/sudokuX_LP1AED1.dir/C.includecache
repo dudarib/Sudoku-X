@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dudar/Documents/faculdade/sudokuX_LP1AED1/main.c
+stdio.h
+-
+sudokuX.h
+C:/Users/dudar/Documents/faculdade/sudokuX_LP1AED1/sudokuX.h
+
+C:/Users/dudar/Documents/faculdade/sudokuX_LP1AED1/sudokuX.c
+sudokuX.h
+C:/Users/dudar/Documents/faculdade/sudokuX_LP1AED1/sudokuX.h
+
+C:/Users/dudar/Documents/faculdade/sudokuX_LP1AED1/sudokuX.h
+math.h
+C:/Users/dudar/Documents/faculdade/sudokuX_LP1AED1/math.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
